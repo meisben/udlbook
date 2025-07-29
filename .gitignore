@@ -28,3 +28,12 @@ yarn-error.log*
 
 # macOS
 .DS_Store
+.venv/
+
+# Jupyter-specific
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
